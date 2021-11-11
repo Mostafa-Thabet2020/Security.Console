@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Console", "Security.Console\Security.Console.csproj", "{3B8DA5D0-DF8A-4D33-A4B0-9053B36E767C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Service", "Security.Service\Security.Service.csproj", "{B891489A-9D05-4C0B-B9AF-45F9A711201B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8DA5D0-DF8A-4D33-A4B0-9053B36E767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8DA5D0-DF8A-4D33-A4B0-9053B36E767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8DA5D0-DF8A-4D33-A4B0-9053B36E767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8DA5D0-DF8A-4D33-A4B0-9053B36E767C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B891489A-9D05-4C0B-B9AF-45F9A711201B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B891489A-9D05-4C0B-B9AF-45F9A711201B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B891489A-9D05-4C0B-B9AF-45F9A711201B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B891489A-9D05-4C0B-B9AF-45F9A711201B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2BD9DE-FA76-40BF-96AA-BF3D331A4C75}
+	EndGlobalSection
+EndGlobal
